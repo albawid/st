@@ -18,6 +18,16 @@ necessary as root):
 
     make clean install
 
+Personal Patch
+--------------
+  - bold is not bright
+  - boxdraw
+  - clipboard
+  - font2
+  - ligatures-boxdraw
+  - scrollback
+  - xresources
+
 
 Running st
 ----------
